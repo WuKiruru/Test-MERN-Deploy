@@ -1,6 +1,7 @@
 **MERN Deploy - Vite application, connected to DB on Render**
 
 Vite web application, frontend connected to backend (DB tested on postgres docker container) and deployed on Render for free.
+
 **If you test the webapp PLEASE be aware that render freeplan is slow and the api lacks a minute to get the information of DB**
 
 **APP SUMMARY**
