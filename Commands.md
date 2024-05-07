@@ -3,8 +3,11 @@ Instructions of commands used on proyect development:
 //- BackEnd folder -//
 
 Create package.json to config =>                    npm init -y
+
 Use of express =>                                   npm install express
+
 Refresh file servers without command =>             npm install nodemon -D
+
 Connect to Database locally =>                      npm install pg
 
 
